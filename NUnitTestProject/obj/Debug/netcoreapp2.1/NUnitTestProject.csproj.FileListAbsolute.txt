@@ -1,0 +1,15 @@
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\NUnitTestProject.deps.json
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\NUnitTestProject.runtimeconfig.json
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\NUnitTestProject.runtimeconfig.dev.json
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\NUnitTestProject.dll
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.1\NUnitTestProject.csprojAssemblyReference.cache
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.1\NUnitTestProject.csproj.CoreCompileInputs.cache
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.1\NUnitTestProject.AssemblyInfoInputs.cache
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.1\NUnitTestProject.AssemblyInfo.cs
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\bin\Debug\netcoreapp2.1\NUnitTestProject.pdb
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.1\NUnitTestProject.dll
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.1\NUnitTestProject.pdb
